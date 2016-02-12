@@ -1,7 +1,7 @@
 # CENTPSO
 CENTPSO Implementation
 
-Project Implemented in 04/2014
+Project Implemented in 04/2014 with Java
 
 More Info: 
 
